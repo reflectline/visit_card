@@ -41,8 +41,7 @@ export const ProjectCard = () => {
                                 </p>
                             </div>
 
-                            <div className='absolute pb-[9px] bottom-0
-                            md:pb-[clamp(9px,0.46vw,18px)]'>
+                            <div className='absolute pb-[9px] bottom-0 md:pb-[clamp(9px,0.46vw,18px)]'>
                                 <img src={skill.icons} alt="icons"
                                      className='  w-[96px] h-auto
                                      md:w-[clamp(96px,5vw,192px)]' />

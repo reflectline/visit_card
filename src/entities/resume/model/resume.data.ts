@@ -28,7 +28,6 @@ export const aboutText: string =
     стремлюсь расти в сторону full-stack.`
 
 export const workExperience: WorkItem[] = [
-
     {
         id: 1,
         company: "Space AI",
