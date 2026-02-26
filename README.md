@@ -3,7 +3,7 @@
 A modern, animated resume website built with **React**, **TypeScript**, and **TailwindCSS**.  
 Designed as a clean and responsive personal portfolio with smooth animations and scalable architecture.
 
-🌍 **Live Demo:** https://reflectline.github.io/visit/
+🌍 **Live Demo:** https://reflectline.github.io/visit_card/
 
 ---
 
