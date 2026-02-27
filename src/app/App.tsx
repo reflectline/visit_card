@@ -1,4 +1,4 @@
-import Lenis from "@studio-freight/lenis";
+import Lenis from "lenis";
 import {ResumePage} from "@/pages/resume-page/ResumePage.tsx";
 import {useEffect} from "react";
 import {PaperStack} from "@/shared/ui/BackgroundEffects/PaperStack.tsx";
