@@ -35,7 +35,7 @@ export const ProjectCard = () => {
 
                             <div className='pt-[9px] md:pt-[clamp(9px,0.46vw,18px)]'>
                                 <p className='text-[13px] md:text-fluid-sm font-semibold'>{skill.subtitle}</p>
-                                <p lang={'ru'} className='text-[12px] leading-[16px] hyphens-auto
+                                <p lang={'ru'} className='text-[12px] leading-[16px] hyphens-auto line-clamp-3
                                 md:text-fluid-us md:leading-[clamp(16px,0.83vw,32px)]'>
                                     {skill.description}
                                 </p>

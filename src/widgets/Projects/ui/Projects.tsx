@@ -4,7 +4,7 @@ import {ProjectCard} from "@/widgets/Projects/ui/ProjectCard.tsx";
 export const Projects = () => {
 
     return (
-        <section className="  pb-[32px] md:pb-[clamp(48px,2.5vw,96px)] text-[#222222]">
+        <section className="  pb-[48px] md:pb-[clamp(48px,2.5vw,96px)] text-[#222222]">
 
             <div className="flex items-center gap-fluid-gapus  w-full pb-[32px] md:pb-fluid-gapns  ">
                 <div className="flex-1 h-[1px] bg-[#E9EAEA]" />

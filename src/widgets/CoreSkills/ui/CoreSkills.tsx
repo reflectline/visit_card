@@ -5,7 +5,7 @@ import {assets} from "@/entities/resume/model/assets.ts";
 export const CoreSkills = () => {
 
     return (
-        <section className="pb-[26px] md:pb-fluid-timeline-sp text-[#222222]">
+        <section className="pb-[48px] md:pb-fluid-timeline-sp text-[#222222]">
 
             <div className="flex items-center gap-fluid-gapus w-full  md:pb-fluid-sm  ">
                 <div className="flex-1 h-[1px] bg-[#E9EAEA]" />

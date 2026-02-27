@@ -44,7 +44,7 @@ export const workExperience: WorkItem[] = [
     {
         id: 2,
         company: "Freelance Frontend",
-        period: "(2025)",
+        period: "(2024)",
         description:
             `Дорабатывал небольшие SPA-приложения. Реализовывал обработку
             ошибок при работе с API (try/catch, обработка HTTP-статусов, пользовательские 
