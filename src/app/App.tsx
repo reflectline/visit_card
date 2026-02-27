@@ -26,7 +26,6 @@ function App() {
     }, [])
 
 
-
     return (
         <div className="relative min-h-screen flex justify-center bg-[#C4C4C4]">
             <PaperStack />
